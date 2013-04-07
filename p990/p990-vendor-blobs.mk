@@ -30,10 +30,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p990/proprietary/etc/firmware/nvmm_jpegenc.axf:system/etc/firmware/nvmm_jpegenc.axf \
     vendor/lge/p990/proprietary/etc/firmware/nvmm_service.axf:system/etc/firmware/nvmm_service.axf \
     vendor/lge/p990/proprietary/etc/firmware/nvmm_h264dec.axf:system/etc/firmware/nvmm_h264dec.axf \
-    vendor/lge/p990/proprietary/etc/wl/nvram.txt:system/etc/wl/nvram.txt \
-    vendor/lge/p990/proprietary/etc/wl/rtecdc.bin:system/etc/wl/rtecdc.bin \
-    vendor/lge/p990/proprietary/etc/wl/rtecdc-mfgtest.bin:system/etc/wl/rtecdc-mfgtest.bin \
-    vendor/lge/p990/proprietary/etc/wl/rtecdc-apsta.bin:system/etc/wl/rtecdc-apsta.bin \
+    vendor/lge/p990/proprietary/vendor/firmware/nvram.txt:system/vendor/firmware/nvram.txt \
+    vendor/lge/p990/proprietary/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
+    vendor/lge/p990/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
     vendor/lge/p990/proprietary/etc/cert/lge.cer:system/etc/cert/lge.cer \
     vendor/lge/p990/proprietary/lib/liblgdrm.so:system/lib/liblgdrm.so \
     vendor/lge/p990/proprietary/lib/libril.so:system/lib/libril.so \
